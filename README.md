@@ -1,2 +1,2 @@
 # bipn162
-Group work for BIPN162 projects.
+Repo for BIPN162: Neural Data Science projects at UC San Diego.
